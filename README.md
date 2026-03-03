@@ -74,11 +74,13 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Braveen811&theme=react-dark&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=6C63FF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-## 🔥 Consistency Streak
+## 🎯 Beyond Coding
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Braveen811&theme=radical&hide_border=true" />
-</div>
+☕ Powered by coffee and curiosity  
+🎧 Background music, foreground focus  
+📚 Books sharpen my mindset  
+🎌 Anime fuels creativity  
+💡 Bugs are just puzzles waiting to be solved
 
 ---
 
