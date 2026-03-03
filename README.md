@@ -74,9 +74,11 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=Braveen811&theme=react-dark&bg_color=0D1117&color=6C63FF&line=FF6B6B&point=6C63FF&area=true&hide_border=true" alt="Contribution Graph" />
 </div>
 
-### 🏆 Growth & Achievements
+## 🔥 Consistency Streak
+
 <div align="center">
- <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Braveen811&layout=compact&theme=radical&hide_border=true" /></div>
+  <img src="https://streak-stats.demolab.com?user=Braveen811&theme=radical&hide_border=true" />
+</div>
 
 ---
 
